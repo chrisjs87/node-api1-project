@@ -12,17 +12,17 @@
 
 #### Codegrade
 
-- [ ] Fork and clone the repository.
-- [ ] Open the assignment in Canvas and click on the "Set up git" option.
-- [ ] Follow instructions to set up Codegrade's Webhook and Deploy Key.
-- [ ] Push your first commit: `git commit --allow-empty -m "first commit" && git push`.
-- [ ] Check to see that Codegrade has accepted your git submssion.
+- [COMPLETE] Fork and clone the repository.
+- [COMPLETE] Open the assignment in Canvas and click on the "Set up git" option.
+- [COMPLETE] Follow instructions to set up Codegrade's Webhook and Deploy Key.
+- [COMPLETE] Push your first commit: `git commit --allow-empty -m "first commit" && git push`.
+- [COMPLETE] Check to see that Codegrade has accepted your git submssion.
 
 ### Task 2: Minimum Viable Product
 
 Use Node.js and Express to build an API that performs CRUD operations on users.
 
-- Add a `server` script to the `package.json` that runs the API using `nodemon`.
+[COMPLETE] - Add a `server` script to the `package.json` that runs the API using `nodemon`.
 
 ### Write endpoints
 
